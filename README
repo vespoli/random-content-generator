@@ -1,0 +1,9 @@
+Javascript utility to create various kinds of randomly generated content in the form of JSON to be used in projects that need fake data. You can use this to emulate an actual data source
+
+Types of content supported:
+- First Name
+- Last Name
+- Company Name
+- Paragraph's of text
+- Latitude longitude
+- Hex colors
